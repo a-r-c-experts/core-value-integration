@@ -1,6 +1,6 @@
 # Core-Value Widget - how to integrate
 
-**Project by ETH Zürich, Professur für Architektur und Bauprozess**
+**This project was originally developed at ETH Zürich, Professur für Architektur und Bauprozess. It is now maintained and further developed by a r c experts.**
 
 This repository holds basic examples on how to embed the core-value as a widget/iframe into a client system.
 An API-Key from core-value is required.
